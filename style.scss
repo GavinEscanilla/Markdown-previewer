@@ -1,0 +1,19 @@
+body{
+    #root{
+        display: flex;
+        background-color: aqua;
+        height: 100vh;
+        #container{
+            display: flex;
+        #editor{
+            background-color: aquamarine;
+            width: 100vh;
+            resize: none;
+            
+        }
+        #preview{
+            font-size: 20px;
+        }
+    }
+    }
+}

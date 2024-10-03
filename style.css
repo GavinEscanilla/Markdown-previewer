@@ -1,0 +1,16 @@
+body #root {
+  display: flex;
+  background-color: aqua;
+  height: 100vh;
+}
+body #root #container {
+  display: flex;
+}
+body #root #container #editor {
+  background-color: aquamarine;
+  width: 100vh;
+  resize: none;
+}
+body #root #container #preview {
+  font-size: 20px;
+}/*# sourceMappingURL=style.css.map */
